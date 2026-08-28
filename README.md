@@ -1,10 +1,10 @@
 ### Hi, I'm Michelle
 
-I'm building AI-powered tools and the operational systems that make them work.
+I build AI-powered tools and the operational systems that make them work.
 
-With healthcare, operations and program management background, MBA from UCLA Anderson. Experience
-across cloud infrastructure, healthcare operations, process improvement, and
-AI-powered product development. 
+Operations and program management background with an MBA from UCLA Anderson, and
+experience across cloud infrastructure, healthcare operations, process
+improvement, and AI-powered product development.
 
 **→ [michellehandoko.vercel.app](https://michellehandoko.vercel.app)**
 
