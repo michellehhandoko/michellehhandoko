@@ -8,11 +8,10 @@ improvement, and AI-powered product development.
 
 **→ [michellehandoko.vercel.app](https://michellehandoko.vercel.app)**
 
-#### What I'm building
+#### What I've built
 
-- **[Atlas](https://github.com/michellehhandoko/Atlas)** — AI travel planning agent that turns a destination, dates, and a budget into a full day-by-day itinerary. OpenAI · Google Maps · Node.js · PostgreSQL
+- **[Atlas](https://github.com/michellehhandoko/Atlas)** — an AI-powered travel planning app that turns a destination, dates, and a budget into a full day-by-day itinerary. OpenAI · Google Maps · Node.js · PostgreSQL
 - **[PersonalLib](https://github.com/michellehhandoko/PersonalLib)** — book recommendations from your Goodreads history, cross-referenced with library availability. Python · [live demo](https://personallib.streamlit.app/)
-- **AI Operations Agent** — an agent that reads SOPs, works through incoming operational cases, and escalates the ambiguous ones to a human *(in progress)*
 
 #### Elsewhere
 
